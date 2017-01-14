@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/var/support.js"],"names":["define"],"mappings":"AAAAA,OAAO,WAAW,YAAa","file":"support.js","sourcesContent":["define(function(){\"use strict\";return{}});\n//# sourceMappingURL=support.js.map\n"]}

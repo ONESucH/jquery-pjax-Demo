@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/core/var/rsingleTag.js"],"names":["define"],"mappings":"AAAAA,OAAO,WAAW,YAAa,OAAM","file":"rsingleTag.js","sourcesContent":["define(function(){\"use strict\";return/^<([a-z][^\\/\\0>:\\x20\\t\\r\\n\\f]*)[\\x20\\t\\r\\n\\f]*\\/?>(?:<\\/\\1>|)$/i});\n//# sourceMappingURL=rsingleTag.js.map\n"]}

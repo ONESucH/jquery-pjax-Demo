@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/event/support.js"],"names":["define","n","focusin","window"],"mappings":"AAAAA,QAAQ,kBAAkB,SAASC,GAAG,YAAa,OAAOA,GAAEC,QAAQ,aAAcC,QAAOF","file":"support.js","sourcesContent":["define([\"../var/support\"],function(n){\"use strict\";return n.focusin=\"onfocusin\"in window,n});\n//# sourceMappingURL=support.js.map\n"]}

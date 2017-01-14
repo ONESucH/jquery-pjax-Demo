@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/data/var/dataPriv.js"],"names":["define","e"],"mappings":"AAAAA,QAAQ,WAAW,SAASC,GAAG,YAAa,OAAO,IAAIA","file":"dataPriv.js","sourcesContent":["define([\"../Data\"],function(e){\"use strict\";return new e});\n//# sourceMappingURL=dataPriv.js.map\n"]}

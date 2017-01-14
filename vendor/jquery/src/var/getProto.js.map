@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/var/getProto.js"],"names":["define","Object","getPrototypeOf"],"mappings":"AAAAA,OAAO,WAAW,YAAa,OAAOC,QAAOC","file":"getProto.js","sourcesContent":["define(function(){\"use strict\";return Object.getPrototypeOf});\n//# sourceMappingURL=getProto.js.map\n"]}

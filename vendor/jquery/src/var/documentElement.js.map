@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/var/documentElement.js"],"names":["define","e","documentElement"],"mappings":"AAAAA,QAAQ,cAAc,SAASC,GAAG,YAAa,OAAOA,GAAEC","file":"documentElement.js","sourcesContent":["define([\"./document\"],function(e){\"use strict\";return e.documentElement});\n//# sourceMappingURL=documentElement.js.map\n"]}

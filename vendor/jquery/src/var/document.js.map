@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/var/document.js"],"names":["define","window","document"],"mappings":"AAAAA,OAAO,WAAW,YAAa,OAAOC,QAAOC","file":"document.js","sourcesContent":["define(function(){\"use strict\";return window.document});\n//# sourceMappingURL=document.js.map\n"]}

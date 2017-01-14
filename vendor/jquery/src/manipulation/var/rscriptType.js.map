@@ -1,0 +1,1 @@
+{"version":3,"sources":["vendor/jquery/src/manipulation/var/rscriptType.js"],"names":["define"],"mappings":"AAAAA,OAAO,WAAW,YAAa,OAAM","file":"rscriptType.js","sourcesContent":["define(function(){\"use strict\";return/^$|\\/(?:java|ecma)script/i});\n//# sourceMappingURL=rscriptType.js.map\n"]}
